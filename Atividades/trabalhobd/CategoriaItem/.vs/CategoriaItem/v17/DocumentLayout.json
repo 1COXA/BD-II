@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\source\\repos\\trabalhobd\\CategoriaItem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D01200-B718-4402-A5D1-B09A027592BE}|CategoriaItem\\CategoriaItem.csproj|c:\\users\\ivan\\source\\repos\\trabalhobd\\categoriaitem\\categoriaitem\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D01200-B718-4402-A5D1-B09A027592BE}|CategoriaItem\\CategoriaItem.csproj|solutionrelative:categoriaitem\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D01200-B718-4402-A5D1-B09A027592BE}|CategoriaItem\\CategoriaItem.csproj|c:\\users\\ivan\\source\\repos\\trabalhobd\\categoriaitem\\categoriaitem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D01200-B718-4402-A5D1-B09A027592BE}|CategoriaItem\\CategoriaItem.csproj|solutionrelative:categoriaitem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D01200-B718-4402-A5D1-B09A027592BE}|CategoriaItem\\CategoriaItem.csproj|c:\\users\\ivan\\source\\repos\\trabalhobd\\categoriaitem\\categoriaitem\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19D01200-B718-4402-A5D1-B09A027592BE}|CategoriaItem\\CategoriaItem.csproj|solutionrelative:categoriaitem\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\trabalhobd\\CategoriaItem\\CategoriaItem\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "CategoriaItem\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\trabalhobd\\CategoriaItem\\CategoriaItem\\Models\\Item.cs",
+              "RelativeToolTip": "CategoriaItem\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:14:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\trabalhobd\\CategoriaItem\\CategoriaItem\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "CategoriaItem\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\trabalhobd\\CategoriaItem\\CategoriaItem\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "CategoriaItem\\Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T00:14:30.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\trabalhobd\\CategoriaItem\\CategoriaItem\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "CategoriaItem\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\trabalhobd\\CategoriaItem\\CategoriaItem\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "CategoriaItem\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:13:04.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
